@@ -127,14 +127,14 @@ export default function Contact() {
           <h2 className="text-2xl font-semibold mb-6 text-lime-300">Social Links</h2>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
             <a
-              href="mailto:youremail@example.com"
+              href="mailto:kuttyswaraj@gmail.com"
               className="flex flex-col items-center justify-center bg-lime-600 hover:bg-lime-500 text-black rounded-xl py-4 transition-all"
             >
               <FaEnvelope className="text-2xl mb-1" />
               <span className="text-sm font-medium">Email</span>
             </a>
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/swarajdasari"
               target="_blank"
               rel="noopener noreferrer"
               className="flex flex-col items-center justify-center bg-gray-900 hover:bg-gray-700 text-white rounded-xl py-4 transition-all"
@@ -143,7 +143,7 @@ export default function Contact() {
               <span className="text-sm font-medium">GitHub</span>
             </a>
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://linkedin.com/in/swaraj-dasari-60a647295"
               target="_blank"
               rel="noopener noreferrer"
               className="flex flex-col items-center justify-center bg-blue-600 hover:bg-blue-500 text-white rounded-xl py-4 transition-all"
