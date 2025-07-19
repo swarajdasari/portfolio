@@ -43,10 +43,10 @@ export default function Contact() {
     e.preventDefault();
     emailjs
       .sendForm(
-        "service_3du3hec",
-        "template_8hzzewl",
+        "service_nmaa803",
+        "template_nle7duf",
         formRef.current,
-        "zZJhy6aWQqrOWbjk4"
+        "AFetsnGrMuHl0PQ_a"
       )
       .then(() => {
         setMessageSent(true);
